@@ -1,0 +1,6 @@
+{
+  "index.enabled" : false,
+  "index.symbolicate" : false,
+  "workspace.art_style" : 0,
+  "workspace.name" : "Data"
+}
